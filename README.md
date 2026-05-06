@@ -4,8 +4,7 @@ Welcome to the official GitHub repository for **[aipower.spot](https://aipower.s
 
 ## 🎯 About the Project
 **aipower.spot** is a curated platform designed to help users navigate the rapidly evolving world of Artificial Intelligence. We provide insights into:
-*   **AI Tool Reviews:** Unbiased analysis of the latest LLMs, image generators, and automation scripts.
-*   **Prompt Engineering:** Best practices for getting the most out of AI.
+*   **AI Tool Reviews:** Unbiased analysis of the latest AI tools, content generators, and automation tools.
 *   **AI News:** Stay updated with daily breakthroughs in neural networks.
 
 ## 🌐 Connect with Us
