@@ -8,11 +8,10 @@ Welcome to the official GitHub repository for **[aipower.spot](https://aipower.s
 *   **Prompt Engineering:** Best practices for getting the most out of AI.
 *   **AI News:** Stay updated with daily breakthroughs in neural networks.
 
-## 📂 Repository Contents
-*   **/data**: Structured JSON/Markdown lists of featured AI tools.
-*   **/guides**: Technical tutorials for AI integration.
-*   **/prompts**: A collection of high-performing prompts for various industries.
-
 ## 🌐 Connect with Us
 *   **Website:** [https://aipower.spot](https://aipower.spot)
 *   **Category:** AI Directory / Productivity / Tech Blog
+
+## 📖 RSS Feed
+*   **Website:** [https://aipower.spot/feed](https://aipower.spot/feed)
+*   **Category:** AI tools news, blog
