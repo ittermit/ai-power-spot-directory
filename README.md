@@ -1,2 +1,18 @@
-# ai-power-spot-directory
-Official Knowledge Base for aipower.spot - A curated directory of AI tools, power-user guides, and neural network resources to boost productivity.
+# AIPower.spot — Explore the Power of AI 🚀
+
+Welcome to the official GitHub repository for **[aipower.spot](https://aipower.spot)**. This project serves as a public knowledge base and a structured data source for our AI tools directory and resource hub.
+
+## 🎯 About the Project
+**aipower.spot** is a curated platform designed to help users navigate the rapidly evolving world of Artificial Intelligence. We provide insights into:
+*   **AI Tool Reviews:** Unbiased analysis of the latest LLMs, image generators, and automation scripts.
+*   **Prompt Engineering:** Best practices for getting the most out of AI.
+*   **AI News:** Stay updated with daily breakthroughs in neural networks.
+
+## 📂 Repository Contents
+*   **/data**: Structured JSON/Markdown lists of featured AI tools.
+*   **/guides**: Technical tutorials for AI integration.
+*   **/prompts**: A collection of high-performing prompts for various industries.
+
+## 🌐 Connect with Us
+*   **Website:** [https://aipower.spot](https://aipower.spot)
+*   **Category:** AI Directory / Productivity / Tech Blog
