@@ -13,4 +13,4 @@ Welcome to the official GitHub repository for **[aipower.spot](https://aipower.s
 
 ## 📖 RSS Feed
 *   **Website:** [https://aipower.spot/feed](https://aipower.spot/feed)
-*   **Category:** AI tools news, blog
+*   **Category:** AI tools news, [blog](https://aipower.spot/blog)
